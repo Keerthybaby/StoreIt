@@ -2,6 +2,7 @@ import Image from "next/image";
 import React from "react";
 
 const layout = ({ children }: { children: React.ReactNode }) => {
+  
   return (
     <div className="flex min-h-screen">
       <section className="bg-brand p-10 hidden w-1/2 items-center justify-center lg:flex  xl:w-2/5 ">
