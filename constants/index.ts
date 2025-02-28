@@ -29,4 +29,5 @@ export const navItems = [
 export const avatarPlaceholderUrl =
   "https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/User-avatar.svg/2048px-User-avatar.svg.png";
 
+
 export const MAX_FILE_SIZE = 50 * 1024 * 1024;
